@@ -2,8 +2,10 @@
 
 ## Sample Work
 
-### SQL
-- `sql/` 
+- `python/`
+- `r/`
+- `sql/`
+- `excel/`
 
 
 

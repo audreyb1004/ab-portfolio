@@ -8,8 +8,6 @@
 - `excel/`
 
 
-
-
 ## Resume
 
 ### Technical Skills
@@ -21,30 +19,48 @@
 -----------------------------------
 ### Professional Experience
 
+### **Big Valley Analytics** — *Real Estate/Appraisal Analyst*  
+*Bradenton, FL/Remote*  
+*Dec 2024 – Present*
+
+- Designed and deployed interactive dashboards in Power BI and Excel to monitor property valuations, cap rate
+trends, and market fluctuations; reduced manual reporting time by 80%, significantly improving
+decision-making speed for stakeholders.
+- Integrated site feasibility studies, zoning compliance, and regulatory constraints into geospatial and financial
+models to guide long-term strategic investments and real estate development planning.
+- Conducted comprehensive market research and competitive intelligence analyses, synthesizing demographic,
+economic, and transactional data to evaluate investment opportunities and support business development
+initiatives.
+- Diagnosed and resolved technical issues in appraisal modeling tools and valuation software, streamlining
+internal workflows and ensuring accurate output for stakeholders.
+
+
 ### **Lionpoint Group** — *Consultant*  
 *New York, NY / Remote*  
 *Jan 2024 – Nov 2024*
 
-- Partnered with private equity firms to implement and optimize Workiva financial reporting solutions.
-- Automated Excel workflows, reducing manual tasks by 55% and speeding up month-end close cycles by 30%.
-- Developed and tuned complex SQL queries, cutting query processing times by 40%.
-- Delivered Workiva training sessions that empowered client teams and reduced reliance on external consultants.
+- Partnered with private equity firms to implement and optimize Workiva financial reporting solutions, driving
+process improvements and operational efficiency.
+- Engineered advanced Excel formulas and automation tools, reducing manual processes by 55% and
+accelerating month-end close cycles by 30%.
+- Developed and tuned complex SQL queries to extract and analyze financial data, improving data reliability and
+reducing query processing times by 40%, which contributed to 20% lower project costs.
+- Contributed to operational efficiency improvements across multiple deployments, achieving 50–60% time
+savings in recurring workflows.
+
 
 ### **AXA XL** — *Strategy & Analytics Intern*  
 *New York, NY*  
 *Sep 2022 – Dec 2023*
 
-- Worked in Digital Risk Consulting, exploring ML applications, data privacy, and enterprise data integration.
-- Led automation efforts using VBA, reducing form processing time by 70%.
+- Digital Risk Consulting Vertical, Worked with a technology-based startup focused on assessing and mitigating
+risks associated with digital commercial tools.
+- Conducted in-depth research and led projects covering key topics such as machine learning applications, data
+privacy regulations, systems integration, and enterprise data solutions, all within AGILE project frameworks.
+- Developed and deployed a VBA-based automation tool to streamline intake form processing, reducing manual
+entry time by 70% and eliminating common data input errors.
 - Built R-based data visualizations using `ggplot2`, `dplyr`, and `plotly` for risk assessment and strategic planning.
-
-### **AXA XL** — *Marine Underwriting Intern*  
-*New York, NY*  
-*May 2022 – Aug 2022*
-
-- Shadowed marine underwriters and supported quoting/risk assessment workflows.
-- Integrated geolocation data via ArcGIS to enhance underwriting accuracy and workflow efficiency.
-
+  
 -----------------------------------
 ## Education
 
